@@ -1,0 +1,5 @@
+aws_region = "us-east-1"
+project_name = "shoe-reco"
+db_username = "admin"
+db_password = "ChangeMe123!"
+ses_from_email = "your_verified_email@example.com"
