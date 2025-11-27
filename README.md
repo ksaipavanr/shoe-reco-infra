@@ -40,9 +40,6 @@ The goal is to demonstrate the ability to design and provision AWS resources usi
   - RDS access via security groups
   - S3 read access for Lambda code artifacts
 
-### 6. **Optional (Good to Have) – SES**
-- Verified SES identity resource included (optional).
-- IAM permission for Lambda to send email (mock setup).
 
 
 
